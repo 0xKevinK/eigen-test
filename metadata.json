@@ -2,6 +2,6 @@
   "name": "eigen-test",
   "website": "eigen-test.com",
   "description": "eigen-test testnet validator",
-  "logo": "https://dummyimage.com/300x300/000/fff.png&text=Cat",
+  "logo": "https://raw.githubusercontent.com/0xKevinK/eigen-test/refs/heads/main/ord_image-min.png",
   "twitter": "eigen-test"
 }
